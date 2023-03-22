@@ -1,0 +1,22 @@
+.registrationWrapper {
+  width: 400px;
+  height: 200px;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 30px;
+  background: #b1a2a2;
+  border-radius: 20px;
+}
+
+.input {
+  width: 100%;
+}
+
+.button {
+  padding: 5px 50px;
+  background: #8f8383;
+  border-radius: 20px;
+}
