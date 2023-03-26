@@ -1,6 +1,5 @@
 .registrationWrapper {
   width: 400px;
-  height: 200px;
   padding: 50px;
   display: flex;
   align-items: center;
@@ -15,8 +14,15 @@
   width: 100%;
 }
 
+.buttons {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 .button {
-  padding: 5px 50px;
+  padding: 5px 30px;
   background: #8f8383;
   border-radius: 20px;
 }
