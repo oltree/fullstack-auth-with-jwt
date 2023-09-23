@@ -1,6 +1,6 @@
 # Project Description
 
-Full-stack auth project with JWT tokens and an account activation letter to the mail + getting users for authorized users.
+Full-stack auth project with JWT tokens and an account activation letter to the mail + Getting users for authorized users.
 
 ## Technologies
 
