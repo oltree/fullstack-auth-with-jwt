@@ -1,7 +1,12 @@
+# Project Description
+
 Full-stack auth project with JWT tokens and an account activation letter to the mail + getting users for authorized users.
 
-Front: react.js, redux-toolkit, typescript, react-router-dom v6.
-FRONT_URL:http://10.5.0.2:3000
+## Technologies
 
-Back: node.js, bcrypt, cookie-parser, cors, dotenv, express, express-validator, jsonwebtoken, mongodb, mongoose, nodemailer, uuid, nodemon.
-BACK_URL:http://localhost:5000
+- React + Typescript + Redux + ... (FRONT_URL:http://10.5.0.2:3000)
+- Express + Mongodb + Mongoose + Bcrypt + Cookie-parser + Cors + ... (BACK_URL:http://localhost:5000)
+
+## Contact
+
+For any inquiries or support, please contact Oleg Melekh at oleg.melekh.frontend@gmail.com.
